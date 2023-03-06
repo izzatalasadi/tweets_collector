@@ -5,4 +5,4 @@ Python script that uses Selenium and the Chrome browser to visit Twitter pages a
 the script creates an instance of the Twitter_hashtags_crawler class and runs the crawler on a given Twitter URL (https://twitter.com/i/trends).
 
 ## install requirments
-  pip install -r requirements.txt
+    pip install -r requirements.txt
